@@ -47,13 +47,13 @@
   <!-- Top Languages -->
   <div style="flex-basis: 48%; border: 1px solid #e1e4e8; border-radius: 5px; margin-bottom: 20px; padding: 10px;">
     <h4 align="left">Top Languages</h4>
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgade45&layout=compact&langs_count=8" alt="Top Languages" />
+    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgade45&layout=compact&langs_count=8" alt="Top Languages" />
   </div>
 
   <!-- GitHub Stats -->
   <div style="flex-basis: 48%; border: 1px solid #e1e4e8; border-radius: 5px; margin-bottom: 20px; padding: 10px;">
     <h4 align="center">GitHub Stats</h4>
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
+    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
   </div>
 
 </div>
