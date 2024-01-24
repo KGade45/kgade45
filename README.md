@@ -56,9 +56,11 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&locale=en" alt="kgade45" />
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kgade45&label=Profile%20views&color=0e75b6&style=flat" alt="kgade45" />
-</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgade45&" alt="kgade45" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kgade45&label=Profile%20views&color=0e75b6&style=flat" alt="kgade45" />
 </p>
