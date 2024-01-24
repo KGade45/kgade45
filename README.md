@@ -49,13 +49,14 @@
 <div style="display: flex; justify-content: space-between;">
   <h4 style="display: inline;">
     <span>
-    Top Languages
+      Top Languages
     </span>
-    <span align="right">
-    GitHub Stats
+    <span style="margin-left: auto;">
+      GitHub Stats
     </span>
   </h4>
 </div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgade45&show_icons=true&locale=en&layout=compact" alt="kgade45" /></p>
 
