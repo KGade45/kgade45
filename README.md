@@ -51,7 +51,7 @@
     <span>
     Top Languages
     </span>
-    <span style="margin: auto;" align="right">
+    <span style="margin-left: auto;">
     GitHub Stats
     </span>
   </h4>
