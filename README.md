@@ -43,15 +43,22 @@
 </p>
 
 
+<!-- Container for side-by-side display -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <!-- Top Languages -->
-   <h4 style="display:inline;" align="left">Top Languages</h4>
-    <img style="display:inline;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgade45&layout=compact&langs_count=8" alt="Top Languages" />
-
+  <div style="flex: 1;">
+    <h4 align="left">Top Languages</h4>
+    <img style="display: block; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgade45&layout=compact&langs_count=8" alt="Top Languages" />
+  </div>
 
   <!-- GitHub Stats -->
-   <h4 style="display:inline;" align="right">GitHub Stats</h4>
-    <img style="display:inline;"  src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <div style="flex: 1;">
+    <h4 align="right">GitHub Stats</h4>
+    <img style="display: block; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
+  </div>
+
+</div>
 
 
 
