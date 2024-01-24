@@ -43,22 +43,9 @@
 </p>
 
 
-<!-- Container for side-by-side display -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgade45&show_icons=true&locale=en&layout=compact" alt="kgade45" /></p>
 
-  <!-- Top Languages -->
-  <div style="flex: 1;">
-    <h4 align="left">Top Languages</h4>
-    <img style="display: block; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgade45&layout=compact&langs_count=8" alt="Top Languages" />
-  </div>
-
-  <!-- GitHub Stats -->
-  <div style="flex: 1;">
-    <h4 align="right">GitHub Stats</h4>
-    <img style="display: block; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
-  </div>
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&locale=en" alt="kgade45" /></p>
 
 
 
