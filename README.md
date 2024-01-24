@@ -43,9 +43,14 @@
 </p>
 
 
+<div style="margin-top:10px;">
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgade45&show_icons=true&locale=en&layout=compact" alt="kgade45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&locale=en" alt="kgade45" /></p>
+  
+</div>
 
 
 
