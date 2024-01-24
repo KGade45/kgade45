@@ -46,8 +46,8 @@
 <div style="margin-top:10px;">
 
 
-<h4 align="left" style="display: inline-block;">Top Languages</h4>
-<h4 align="center" style="display: inline-block;">GitHub Stats</h4>
+<h4 align="left" style="display: inline;">Top Languages</h4>
+<h4 align="center" style="display: inline;">GitHub Stats</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgade45&show_icons=true&locale=en&layout=compact" alt="kgade45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&locale=en" alt="kgade45" /></p>
