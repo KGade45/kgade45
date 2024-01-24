@@ -48,7 +48,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <h4 style="display: inline;">
-    <span>
+    <span style="margin-right: 72%;">
     Top Languages
     </span>
     <span style="margin-left: auto;">
