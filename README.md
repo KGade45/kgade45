@@ -52,10 +52,13 @@
 
   <!-- GitHub Stats -->
   <div style="flex-basis: 48%; padding: 10px; border: 1px solid #e1e4e8; border-radius: 5px; margin-bottom: 20px;">
-    <h4 align="center">GitHub Stats</h4>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
+    <h4 align="right">GitHub Stats</h4>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
   </div>
 
 </div>
 
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kgade45&label=Profile%20views&color=0e75b6&style=flat" alt="kgade45" />
+</p>
