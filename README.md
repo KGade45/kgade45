@@ -45,13 +45,13 @@
 
 
   <!-- Top Languages -->
-   <h4 align="left">Top Languages</h4>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgade45&layout=compact&langs_count=8" alt="Top Languages" />
+   <h4 style="display:inline;" align="left">Top Languages</h4>
+    <img style="display:inline;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgade45&layout=compact&langs_count=8" alt="Top Languages" />
 
 
   <!-- GitHub Stats -->
-   <h4 align="right">GitHub Stats</h4>
-    <img  src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
+   <h4 style="display:inline;" align="right">GitHub Stats</h4>
+    <img style="display:inline;"  src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&count_private=true" alt="GitHub Stats" />
 
 
 
