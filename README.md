@@ -48,12 +48,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <h4 style="display: inline;">
-    <span style="margin-right:72%;">
-    Top Languages
-    </span>
-    <span style="margin-left:auto;">
     GitHub Stats
-    </span>
   </h4>
 </div>
 
