@@ -25,10 +25,10 @@
   </a>
   <a href="https://www.linkedin.com/in/kaustubh-gade-04353421a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-gade-04353421a/" height="30" width="40" />
-  </a>
+<!--   </a>
   <a href="https://codeforces.com/profile/roronoa3" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roronoa3" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.leetcode.com/roronoazoro9" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roronoazoro9" height="30" width="40" />
   </a>
