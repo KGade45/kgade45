@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **koustubhgade@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mjhlRxZGvUimFqMC9YU-9ZlA5WyFlATf/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iKSwzk3nDsSOwWBRVNuSJ6B1t765UNrA/view?usp=drivesdk)
 
 - ⚡ Fun fact: **I think I am funny**
 
