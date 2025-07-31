@@ -8,13 +8,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [iOS applications]
+- 🔭 I’m currently working on iOS applications
 
 - 🌱 I’m currently learning **Backend and Cloud Technologies**
 
 - 📫 How to reach me: **koustubhgade@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zK6IqfSfd2utd77TTA7oRGXuqW9WVDCd/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1snpVoyVUFkXNFmkYd9XkPgczlbypXWKs/view?usp=drive_link)
 
 - ⚡ Fun fact: **I think I am funny**
 
