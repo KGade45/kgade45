@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Freelancer Marketplace](https://github.com/KGade45/Freelancer)
+- 🔭 I’m currently working on [iOS applications]
 
 - 🌱 I’m currently learning **Backend and Cloud Technologies**
 
