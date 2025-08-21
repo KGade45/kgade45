@@ -52,16 +52,11 @@
   </h4>
 </div>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgade45&show_icons=true&locale=en&layout=compact" alt="kgade45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgade45&show_icons=true&locale=en" alt="kgade45" /></p>
   
 </div>
-
-
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kgade45&label=Profile%20views&color=0e75b6&style=flat" alt="kgade45" />
